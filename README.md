@@ -26,4 +26,11 @@ Easy navigation
 Used Figma’s prototyping tools to create an interactive flow.
 Linked the  screens with transitions to simulate real usage.
 Added animated flows for actions like placing an order, checking status, etc.
+OUTPUT:
+Use Figma’s prototyping tools to create an interactive flow.
+
+Link screens with transitions to simulate real usage.
+
+Add animated flows for actions like placing an order, checking status, etc.
+
 
