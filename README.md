@@ -26,11 +26,11 @@ Easy navigation
 Used Figma’s prototyping tools to create an interactive flow.
 Linked the  screens with transitions to simulate real usage.
 Added animated flows for actions like placing an order, checking status, etc.
-OUTPUT:
 Use Figma’s prototyping tools to create an interactive flow.
-
 Link screens with transitions to simulate real usage.
-
 Add animated flows for actions like placing an order, checking status, etc.
 
+OUTPUT:
+
+https://www.figma.com/design/2ufbtWc7gfb3W32sYST6Vf/redesigned_zomato_app?node-id=0-1&t=H4H14lHoBWt8OyFa-1
 
